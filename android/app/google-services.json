@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287523051115",
+    "project_id": "helenaapp-ebd2e",
+    "storage_bucket": "helenaapp-ebd2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287523051115:android:3bf4fe40ac41ece2de032e",
+        "android_client_info": {
+          "package_name": "com.example.helenaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287523051115-fvbrhupl4u4k5t3t29f1145urid6l302.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helenaapp",
+            "certificate_hash": "23637c725be68eb335cdbbf220f42c962afd17a7"
+          }
+        },
+        {
+          "client_id": "287523051115-dm45n4j3e9fgn4ofv61ncs0l0v8uqeji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4miBa1yRSJO5P_mV2XzMDp_oR_dKz8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287523051115-dm45n4j3e9fgn4ofv61ncs0l0v8uqeji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
